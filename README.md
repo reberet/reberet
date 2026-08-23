@@ -4,5 +4,5 @@ Estudio Informática
 
 
 <p align="center">
-  <img src="assets/sopranos.gif" width="550">
+  <img src="assets/sopranos.gif" width="350">
 </p>

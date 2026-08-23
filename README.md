@@ -3,6 +3,6 @@
 Estudio Informática
 
 
-<p align="center">
+<p align="left">
   <img src="assets/sopranos.gif" width="350">
 </p>

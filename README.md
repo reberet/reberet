@@ -1,3 +1,8 @@
 # Hola, soy Renzo
 
-Estudiante de Ingeniería Informática.
+Estudio Informática.
+
+
+<p align="center">
+  <img src="assets/sopranos.gif" width="550">
+</p>

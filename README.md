@@ -1,6 +1,6 @@
 # Hola, soy Renzo
 
-Estudio Informática.
+Estudio Informática
 
 
 <p align="center">

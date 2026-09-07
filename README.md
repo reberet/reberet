@@ -7,3 +7,14 @@
 </p>
 
 `while (true) { stack.overflow(); memory.leak(); }`
+
+<div align="left">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,py,windows" alt="My Skills" align="middle" />  
+  </a>
+  &nbsp; <b>MS Windows Advanced User</b>
+  
+  <br><br>
+</div>
+

@@ -10,8 +10,9 @@
 
 <div align="left">
   
+  <!-- Íconos de skill-icons.dev -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,py,windows" alt="My Skills" align="middle" />  
+    <img src="https://skillicons.dev/icons?i=git,js,ts,py,dotnet,windows" alt="My Skills" align="middle" />  
   </a>
   &nbsp; <b>MS Windows Advanced User</b>
   

@@ -1,6 +1,5 @@
 # soy Renzo
-
-`estudio computadora`
+*Estudio informatica*
 
 
 <p align="left">
